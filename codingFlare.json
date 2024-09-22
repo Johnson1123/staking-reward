@@ -1,0 +1,15 @@
+{ 
+    "attributes" : [ 
+            { 
+                "trait_type" : "Finance", 
+                "value" : "hold signature to company account" 
+            },
+            { 
+                "trait_type" : "Company ", 
+                "value" : "Oversees company works"
+            } 
+         ],
+    "description" : "The original CEO and founder of Codingflare Empire.",
+    "image" : "https://azure-implicit-booby-905.mypinata.cloud/ipfs/QmedYRH8cU93ER2etjp7jVodoqxbCeZFR2zi6qaSRhciJb", 
+    "name" : "Emperor"
+}
